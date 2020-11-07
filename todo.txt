@@ -1,5 +1,5 @@
 1) Design (user-friendly coordinate input, showing map, results)
 2) Show spent time
 3) Add modes (easy / normal / ...) and (/) different lengths of map
-4) Add possibility to make 'flags' - where mines are supposed to be, in user's opinion
+(done) 4) Add possibility to make 'flags' - where mines are supposed to be, in user's opinion
 5) Again restructure code: make it easier, more productive and change it according to code-writing standarts 
